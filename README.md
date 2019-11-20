@@ -1,4 +1,7 @@
 # Muvitomatic for PsyPlay Themes
+Automatic / Auto Post Movie & Series Just one click.
+AGC Plugin for Wordpress Movie.
+
 ### Main Features
 - Generate Movie from ImDB or Gdriveplayer.us
 - Post All Movies
